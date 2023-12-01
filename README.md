@@ -17,6 +17,7 @@ Design a single-page application, featuring a Google Place Autocomplete textbox,
 - Material-UI
 
 # Folder Structure
+![fs](https://github.com/Mirza-Hassan/React_Native_Map_Task/assets/17096257/600aa0a0-d535-49b2-9b48-26c87b1f9718)
 
 # Setup Instructions
 
