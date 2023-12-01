@@ -40,4 +40,4 @@ npx react-native run-ios
 ```
 
 # Screenshot
-
+![ss](https://github.com/Mirza-Hassan/React_Native_Map_Task/assets/17096257/0819f7b6-b0ef-47a8-bac2-aaba9701f68d)
